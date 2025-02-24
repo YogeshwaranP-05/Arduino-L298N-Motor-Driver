@@ -22,11 +22,6 @@ This project helps you learn:
 * **12V Battery:** Power supply for the motors and 5V for the Arduino  
 * **Jumper Wires:** For electrical connections
 
-🗂 **Project Structure**
-
-/l298n\_arduino  
-|-- /code                             \# Arduino sketch (.ino)  
-|-- /circuit diagram             \# Wiring diagrams and illustrations
 
 ⚙️ **Installation and Setup**
 
